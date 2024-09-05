@@ -1,12 +1,12 @@
 ## 👋 &nbsp;Hi! I'm Ahmed
 
 ### &nbsp;About Me
-💡  I enjoy diving into new technologies, particularly in the fields of machine learning and computer vision, and developing innovative solutions to complex problems.
-🎓  I'm a fresh graduate from The Higher School of Communication of Tunis (Sup'Com), where I specialized in the application of multimodal information and machine learning.
-⚙️  I have a diverse background, and I’ve started with a focus on Artificial Intelligence, Deep Learning, and Time Series Forecasting.
-🌱  Currently, I'm expanding my expertise in AI, computer vision, data engineering, and language vision models, always looking for new challenges and learning opportunities.
-😍  In my free time, I enjoy experimenting with new AI models, exploring sports tech, and staying up-to-date with industry trends through blog reading and research.
-📄  I'm open to feedback, collaboration, and exciting new opportunities!
+💡  I enjoy diving into new technologies, particularly in the fields of machine learning and computer vision, and developing innovative solutions to complex problems.\
+🎓  I'm a fresh graduate from The Higher School of Communication of Tunis (Sup'Com), where I specialized in the application of multimodal information and machine learning.\
+⚙️  I have a diverse background, and I’ve started with a focus on Artificial Intelligence, Deep Learning, and Time Series Forecasting.\
+🌱  Currently, I'm expanding my expertise in AI, computer vision, data engineering, and language vision models, always looking for new challenges and learning opportunities.\
+😍  In my free time, I enjoy experimenting with new AI models, exploring sports tech, and staying up-to-date with industry trends through blog reading and research.\
+📄  I'm open to feedback, collaboration, and exciting new opportunities!\
 
 ### &nbsp;Languages I Use
 
@@ -48,4 +48,4 @@
 
 ### &nbsp;Github Analytics
 
-<a href="https://github.com/ahmed-BS11/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=GhaziXX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-BS11&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://github.com/ahmed-BS11/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-BS11&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-BS11&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
